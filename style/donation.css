@@ -1,0 +1,163 @@
+
+*{
+    font-family: sans-serif;
+    margin: 0%;
+}
+/* header */
+.header{
+    text-align: center;
+    background-image:url("../images/donation9.jpg");
+    color: aliceblue;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 150px;
+    font-size:x-large;
+    /* box-shadow: 0px 10px 5px #888888; */
+    box-shadow:inset 200px 220px 220px rgba(0,0,0,.9) ;
+    
+    
+
+}
+
+.header-descripton{
+    font-size: 15px;
+}
+.donate-now{
+    padding: 10px 15px;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #FF5959;
+
+    border-style: none;
+    border-radius: 5px;
+    color: aliceblue;
+    margin-top: 20px;
+}
+/* main */
+.main{
+    max-width: 1000px;
+    color: black;
+    margin: 0 auto;
+  
+    
+}
+.section-title{
+    margin-top: 100px;
+  text-align: center;
+  margin-bottom: 40px;
+  font-size: 40px;
+  
+  
+}
+.section-description{
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 40px;
+    color:	#696969
+}
+.amount{
+    display: flex;
+    gap: 20px
+    ;
+    justify-content: center;
+}
+.money{
+    background-color:	#F5F5F5;
+    border-radius: 5px;
+    padding: 15px;
+    color: 	#696969;
+}
+.end-title{
+    font-size: 15px;
+    text-align: center;
+    margin-bottom: 5px;
+    color:#BEBEBE
+}
+.line{
+    margin: 0 230px;
+    border-top: 1px solid  #BEBEBE;
+}
+    .donate-now-2nd{
+    padding: 10px 15px;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #FF5959;
+
+    border-style: none;
+    border-radius: 5px;
+    color: aliceblue;
+    margin-left: 430px;
+    margin-top: 20px;
+
+   
+    }
+    .donate-plane{
+        display: flex;
+        gap: 40px;
+      
+         
+
+    }
+    .donate-package1{
+        background-color: #e0ebeb;
+        border-radius: 5px;
+        padding: 40px 20px;
+
+    }
+    .donate-package2{
+        border-radius: 5px;
+        background-color:#ffe6e6;
+        padding: 40px 20px;
+    }
+    .donate-package3{
+        border-radius: 5px;
+        background-color: #ffffcc;
+        padding: 40px 20px;
+    }
+    .third-section{
+        display: flex;
+        gap: 100px;
+        justify-content: center
+        ;
+    }
+    .third-title{
+  margin-top:150px;
+  text-align: left;
+  margin-bottom: 40px;
+  font-size: 40px;
+
+
+    }
+    
+        .third-description{
+            font-size: 15px;
+            text-align:left;
+            margin-bottom: 40px;
+            color:	#696969
+
+        }
+    .contribute{
+    padding: 10px 15px;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: #FF5959;
+
+    border-style: none;
+    border-radius: 5px;
+    color: aliceblue;
+    margin-left: ;
+    /* margin-top: 5px; */
+        }
+    /* .img{
+       width: 200px;
+       height: auto
+    } */
+        
+        
+        
+        
+        
+
+    
+
+ 
